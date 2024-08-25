@@ -12,7 +12,7 @@ Highly motivated Statistics graduate with a passion for Software engineering, bu
 * **Web Development:**
     * Flask
     * Express.js
-* **DevOps:**
+* **Developer Tools:**
     * Linux
     * Git
 
