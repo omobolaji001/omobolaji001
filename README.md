@@ -1,16 +1,21 @@
-## Hi there 👋
+# Habeeb Omobolaji Oyebode
 
-<!--
-**omobolaji001/omobolaji001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly motivated Statistics graduate with a passion for Software engineering, building innovative solutions. Proficient in Python, C, JavaScript, and web development frameworks. Eager to contribute to impactful projects and collaborate with talented individuals.
 
-Here are some ideas to get you started:
+**Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming Languages:**
+    * C
+    * Python
+    * JavaScript
+    * SQL
+* **Web Development:**
+    * Flask
+    * Express.js
+* **DevOps:**
+    * Linux
+    * Git
+
+**Contact**
+
++2348138914240 | oyebodehabeebomobolaji@gmail.com
