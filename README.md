@@ -10,6 +10,7 @@ Highly motivated Statistics graduate with a passion for Software engineering, bu
     * JavaScript
     * SQL
 * **Web Development:**
+    * Django
     * Flask
     * Express.js
 * **Developer Tools:**
