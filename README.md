@@ -16,6 +16,8 @@ Highly motivated Statistics graduate with a passion for Software engineering, bu
 * **Developer Tools:**
     * Linux
     * Git
+    * Docker
+    * Postman
 
 **Contact**
 
