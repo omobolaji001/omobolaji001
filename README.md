@@ -13,11 +13,10 @@ Highly motivated Statistics graduate with a passion for Software engineering, bu
     * Django
     * Flask
     * Express.js
-* **Developer Tools:**
+* **DevOps Tools:**
     * Linux
     * Git
     * Docker
-    * Postman
 
 **Contact**
 
